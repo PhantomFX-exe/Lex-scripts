@@ -18,7 +18,7 @@ local GAMES = {
     {
         Name   = "Da Hood",
         Color  = GREEN,
-        Source = [[loadstring(game:HttpGet(""))()]],
+        Source = [[loadstring(game:HttpGet("https://raw.githubusercontent.com/PhantomFX-exe/Lex-scripts/refs/heads/main/dahoooodiii"))()]],
     },
     {
         Name   = "MM2",
