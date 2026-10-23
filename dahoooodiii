@@ -1,4 +1,3 @@
-
 local Lexhancements = _G.Lexhancements or (getgenv and getgenv().Lexhancements) or _G.KraviX or (getgenv and getgenv().KraviX) or loadstring(game:HttpGet("Your raw here"))()
 local KraviX = Lexhancements
 
