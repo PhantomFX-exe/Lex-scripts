@@ -2,7 +2,7 @@ pcall(function()
     loadstring(game:HttpGet("https://raw.githubusercontent.com/rizemtech0123/all/refs/heads/main/bypass"))()
 end)
 
-local Lexhancements = _G.Lexhancements or (getgenv and getgenv().Lexhancements) or _G.KraviX or (getgenv and getgenv().KraviX) or loadstring(game:HttpGet("Your raw here"))()
+local Lexhancements = _G.Lexhancements or (getgenv and getgenv().Lexhancements) or _G.KraviX or (getgenv and getgenv().KraviX) or loadstring(game:HttpGet("https://raw.githubusercontent.com/PhantomFX-exe/Lex-scripts/refs/heads/main/ui"))()
 local KraviX = Lexhancements
 
 local Players           = game:GetService("Players")
