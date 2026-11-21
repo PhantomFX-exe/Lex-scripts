@@ -1,4 +1,4 @@
--- Deobfuscated with expertise by neuro.net.
+-- Made By Lex, The Queen Of Scripts.
 
 local p = game
 local cloneref = cloneref or function(o) return o end
